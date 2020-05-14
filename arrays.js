@@ -15,9 +15,9 @@ function addElementToEndOfArray(newArray1,element){
   return [ ...newArray1, element]
 }
 
-function destructivelyAddElementToEndOfArray(newArray2,element){
+function destructivelyAddElementToEndOfArray(Array,element){
   newArray2.unshift(element);
-  return newArray2
+  return Array
 }
 
 function accessElementInArray(newArray3,index){
