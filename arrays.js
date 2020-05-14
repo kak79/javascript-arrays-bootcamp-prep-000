@@ -30,7 +30,6 @@ function destructivelyRemoveElementFromBeginningOfArray(newArray4){
   return newArray4
 }
 
-
 function removeElementFromBeginningOfArray(newArray5){
   return newArray5.slice(1)
 }
@@ -44,12 +43,4 @@ function removeElementFromEndOfArray(newArray7){
   newArray7.slice(0, newArray7.length - 1)
   return newArray7
 }
-
-
-
-
-
-
-
-
 
