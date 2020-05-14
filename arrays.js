@@ -35,6 +35,7 @@ function removeElementFromBeginningOfArray(newArray5){
   return newArray5.slice(1)
 }
 
+function 
 
 
 
