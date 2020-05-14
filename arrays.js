@@ -21,12 +21,12 @@ function destructivelyAddElementToEndOfArray(newArray2,element){
 }
 
 function accessElementInArray(newArray3,index){
-  console.log(newArray2[index])
+  console.log(newArray3[index])
 }
 
 
-function destructivelyRemoveElementFromBeginningOfArray(newArray3){
-  newArray3.shift()
+function destructivelyRemoveElementFromBeginningOfArray(newArray4){
+  newArray4.shift()
 }
 
 
