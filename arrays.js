@@ -55,6 +55,7 @@ function destructivelyRemoveElementFromEndOfArray(newArray6){
 
 
 function removeElementFromEndOfArray(newArray7){
+  newArray7.lastIndexOf
   newArray7.slice(0, [newArray7.length-1])
   return newArray7
 }
