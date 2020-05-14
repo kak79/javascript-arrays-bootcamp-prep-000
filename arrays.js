@@ -20,8 +20,8 @@ function destructivelyAddElementToEndOfArray(Array1,element){
   return Array1
 }
 
-function accessElementInArray(newArray3,index){
-  newArray3[index] = newArray3[element]
+function accessElementInArray(newArray2,index){
+  newArray2[index] = newArray3[element]
   return element
 }
 
