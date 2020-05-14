@@ -2,8 +2,8 @@ var chocolateBars = [`snickers`, `hundred grand`, `kitkat`, `skittles`];
 
 
 
-function addElementToBeginningOfArray(Array,element){
-  return [element, ...Array]
+function addElementToBeginningOfArray(array,element){
+  return [element, ...array]
 }
 
 function destructivelyAddElementToBeginningOfArray(newArray,element){
@@ -35,7 +35,20 @@ function removeElementFromBeginningOfArray(newArray5){
   return newArray5.slice(1)
 }
 
-function 
+function destructivelyRemoveElementFromEndOfArray(newArray6){
+  newArray6.pop()
+  return newArray6
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
