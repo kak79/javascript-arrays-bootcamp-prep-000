@@ -21,9 +21,9 @@ function destructivelyAddElementToEndOfArray(Array1,element){
 }
 
 function accessElementInArray(newArray2,index){
-  newArray2[index] = newArray3[element]
-  return element
+  console.log(newArray2[index])
 }
+
 
 
 
