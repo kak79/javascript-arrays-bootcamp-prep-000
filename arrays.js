@@ -29,7 +29,7 @@ function destructivelyAddElementToEndOfArray(newArray2,element){
 
 
 function accessElementInArray(newArray3,index){
-  console.log(newArray3[index])
+  return newArray3[index]
 }
 
 
