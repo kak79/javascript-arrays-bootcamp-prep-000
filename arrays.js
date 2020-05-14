@@ -20,7 +20,7 @@ function destructivelyAddElementToEndOfArray(Array1,element){
   return Array1
 }
 
-function accessElementInArray(newArray2,index){
+function accessElementInArray(,index){
   console.log(newArray2[index])
 }
 
